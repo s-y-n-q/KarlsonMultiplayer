@@ -4,5 +4,7 @@
 
 Known Issues
 ```
-- help
--help
+- Shotguns not syncing on Sky 0
+- Guns not syncing
+- Bullets not syncing
+```
