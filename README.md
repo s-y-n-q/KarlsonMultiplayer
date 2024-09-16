@@ -1,4 +1,6 @@
-# KarlsonMultiplayer
+# Karlson Multiplayer
+
+A custom multiplayer mod that utilizes facepunch.steamworks c# api
 
 1.0.0, First release
 
