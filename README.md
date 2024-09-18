@@ -8,5 +8,7 @@ Known Issues
 ```
 - Shotguns not syncing on Sky 0
 - Guns not syncing
-- Bullets not syncing
+- some other stuff that i forgot
 ```
+
+Remind me of issues or bugs in the issues tab! ill try to fix them
