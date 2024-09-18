@@ -16,6 +16,7 @@ Remind me of issues or bugs in the issues tab! ill try to fix them
 
 Current features:
 
+```
 Networked player position and rotation
 Networked barrel explosion
 Networked weapons (breaks often on other maps than tutorial)
@@ -27,3 +28,4 @@ Networked shooting enemies
 Networked killing other players
 Networked map changing (most of the time)
 maybe some other stuff i cant remember
+```
