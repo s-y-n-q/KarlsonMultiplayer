@@ -1,5 +1,7 @@
 # Karlson Multiplayer
 
+# THIS MOD REQUIRES BEPINEX!!!
+
 A custom multiplayer mod that utilizes facepunch.steamworks c# api
 
 This whole mod is just a learning experience for the api, first time ever using this
