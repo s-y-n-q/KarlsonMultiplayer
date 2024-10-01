@@ -8,14 +8,15 @@ This whole mod is just a learning experience for the api, first time ever using 
 
 https://danidev.itch.io/karlson
 
-1.0.0, First release
+1.1.0, First update
 
 Known Issues
 ```
 - Shotguns not syncing on Sky 0
 - Guns not syncing
 - Stuff doesnt start networking until a few seconds into being in the game
-- Some other stuff that i forgot
+- When pressing retry when your not dead, it will freeze you until you press escape twice
+- Server settings applying when not in a server
 ```
 
 Remind me of issues or bugs in the issues tab! ill try to fix them
